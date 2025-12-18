@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+newspaper3k
+serpapi
+google-search-results
+pandas
+python-dateutil
+openpyxl
+lxml
+nltk
+lxml_html_clean
+nltk
